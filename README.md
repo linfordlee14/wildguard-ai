@@ -72,7 +72,7 @@ Special thanks to **wildlife rangers** and conservationists who are fighting dai
 📬 Contact
 Created with ❤️ by [Linford Lee](https://github.com/linfordlee14)  
 📫 Reach me at: linfordlee14@gmail.com  
-🌐 Website: [linfordlee14.github.io/linford-mus](https://linfordlee14.github.io/linford-mus)
+🌐 Website: [linfordlee14.github.io/linford-mus](https://linfordlee14.github.io/LInfy-Website/)
 
 ⭐ Show Your Support!
 If you find this project helpful:
